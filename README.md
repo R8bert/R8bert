@@ -27,13 +27,11 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Activity Insights
 
-- **[HydroFetch](https://github.com/R8bert/HydroFetch)**: A lightweight fetch tool for system info. 🖥️  
-- **[HydroTop](https://github.com/R8bert/HydroTop)**: Minimalist system monitor for embedded devices. 📊  
-- **[HydroToDo](https://github.com/R8bert/HydroToDo)**: Terminal-based task manager for engineers. 📋  
-
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R8bert&theme=dracula" alt="Profile Details"/>
+</p>
 
 ## 📊 GitHub Stats
 
