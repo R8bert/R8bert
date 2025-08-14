@@ -1,10 +1,8 @@
-# R8bert's GitHub Profile
- 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=R8bert&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Hey, I'm R8bert!</h1>
 <p align="center">
   🛠 Automation & Computer Science Engineer | 💻 Embedded Systems Developer | 🐍 C++, Python, TypeScript Enthusiast
 </p>
