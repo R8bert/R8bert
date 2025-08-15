@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Activity Insights
+## 🚀 Activity Insights 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R8bert&theme=dracula" alt="Profile Details"/>
