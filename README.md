@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  🛠 Automation & Computer Science Engineer | 💻 Embedded Systems Developer | 🐍 C++, Python, TypeScript Enthusiast
+  🛠 Automation & Computer Science Engineer | 💻 Embedded Systems Developer 
 </p>
 
 ---
