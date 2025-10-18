@@ -23,7 +23,6 @@
 - **C++**: Tweaking things for max speed on those tight embedded setups.  
 - **Python**: Whipping up scripts to automate the boring bits and prototype ideas quick.  
 - **TypeScript**: Putting together solid interfaces that won't break under pressure.
-
 ---
 
 ## 🚀 Activity Insights 
