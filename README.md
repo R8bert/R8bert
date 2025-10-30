@@ -28,7 +28,7 @@
 ## 🚀 Activity Insights 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R8bert&theme=tokyonight" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R8bert&theme=vue" alt="Profile Details"/>
 </p>
 
 ## 📊 GitHub Stats
