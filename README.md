@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=1000&lines=R8bert;Automation+%26+Computer+Science+Engineer;🎃+Happy+Halloween!+👻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=FFA500&background=000000&center=true&vCenter=true&width=1000&duration=4000&pause=1000&lines=R8bert%20%7C%20Automation%20%26%20Computer%20Science%20Engineer%20%F0%9F%8E%83" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   🛠 Embedded Systems Developer | 💻 Automation & CS Engineer  
