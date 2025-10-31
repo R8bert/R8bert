@@ -1,7 +1,5 @@
 <p align="center">
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=FFA500&background=000000&center=true&vCenter=true&width=1000&lines=R8bert;Automation+%26+Computer+Science+Engineer;🎃+Happy+Halloween!+👻" alt="Typing SVG" />
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=1000&lines=R8bert;Automation+%26+Computer+Science+Engineer;🎃+Happy+Halloween!+👻" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,7 +28,7 @@
 ## 🚀 Activity Insights 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R8bert&theme=github_dark_orange" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R8bert&theme=github_dark" alt="Profile Details"/>
 </p>
 
 ---
@@ -38,8 +36,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=R8bert&show_icons=true&theme=tokyonight&title_color=FFA500&icon_color=FF7518&text_color=FFFFFF&bg_color=000000&hide_border=true" alt="GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R8bert&layout=compact&theme=tokyonight&title_color=FFA500&text_color=FFFFFF&bg_color=000000&hide_border=true&langs_count=6" alt="Top Languages"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=R8bert&show_icons=true&title_color=FFA500&icon_color=FF7518&text_color=FFFFFF&bg_color=000000&hide_border=true" alt="GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R8bert&layout=compact&title_color=FFA500&text_color=FFFFFF&bg_color=000000&hide_border=true&langs_count=6" alt="Top Languages"/>
 </p>
 
 ---
