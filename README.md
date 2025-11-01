@@ -5,7 +5,6 @@
 
 <p align="center">
   🛠 Embedded Systems Developer | 💻 Automation & CS Engineer  
-  <br>🎃 Trick-or-Track Code Edition 👻
 </p>
 
 ---
@@ -42,5 +41,3 @@
 </p>
 
 ---
-
-🕸️ *May your commits be clean and your bugs stay buried.* 💀
