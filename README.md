@@ -25,12 +25,6 @@
 - **TypeScript**: Putting together solid interfaces that won't break under pressure.
 ---
 
-## 🚀 Activity Insights 
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R8bert&theme=vue" alt="Profile Details"/>
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
