@@ -10,14 +10,6 @@
 
 ---
 
-## 💻 About Me
-
-- 🔌 I design and build integrated systems and automation systems that surprisingly work in the real world.
-- 🧑‍💻 I get a kick out of writing code that's clean and fast, especially when it makes hardware and software play nice together.
-- 🌟 I'm all in on open-source—it's how we all get better, right? Plus, I love the hands-on problem-solving side of engineering.
-
----
-
 ## 🌱 Currently Working On
 
 - **C++**: Tweaking things for max speed on those tight embedded setups.  
