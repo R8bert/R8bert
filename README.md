@@ -17,7 +17,7 @@
 - **TypeScript**: Putting together solid interfaces that won't break under pressure.
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=R8bert&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats"/>
