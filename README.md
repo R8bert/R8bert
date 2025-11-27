@@ -9,12 +9,3 @@
   <img src="https://img.shields.io/badge/OS-Linux-black?logo=linux&logoColor=white" alt="Linux">
   <img src="https://img.shields.io/badge/__-_?logo=redhat&logoColor=red&labelColor=black&color=black" alt="RedhatFedora">
 </p>
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=R8bert&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R8bert&layout=compact&theme=vue&hide_border=true&langs_count=6" alt="Top Languages"/>
-</p>
