@@ -6,9 +6,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/r8bert?style=flat-square&logo=github&logoColor=white&labelColor=18181b&color=18181b" alt="GitHub stars">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/OS-Linux-black?logo=linux&logoColor=white" alt="Linux">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/__-_?logo=redhat&logoColor=red&labelColor=black&color=black" alt="RedhatFedora">
 </p>
 
