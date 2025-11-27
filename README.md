@@ -5,23 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/r8bert">
     <img src="https://img.shields.io/github/stars/r8bert?style=flat-square&logo=github&logoColor=white&labelColor=18181b&color=18181b" alt="GitHub stars">
-  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/OS-Linux-black?logo=linux&logoColor=white" alt="Linux">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/__-_?logo=redhat&logoColor=red&labelColor=black&color=black" alt="RedhatFedora">
 </p>
 
-
----
-
-## 🌱 Currently Working On
-
-- **C++**: Tweaking things for max speed on those tight embedded setups.  
-- **Python**: Whipping up scripts to automate the boring bits and prototype ideas quick.  
-- **TypeScript**: Putting together solid interfaces that won't break under pressure.
 ---
 
 ## 📊 Stats
