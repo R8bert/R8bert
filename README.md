@@ -15,6 +15,8 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/OS-Linux-black?logo=linux&logoColor=white" alt="Linux">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/__-_?logo=redhat&logoColor=red&labelColor=black&color=black" alt="RedhatFedora">
 </p>
 
 
