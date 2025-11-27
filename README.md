@@ -5,11 +5,6 @@
 </p>
 
 <p align="center">
-  🛠 Embedded Systems Developer | 💻 Automation & CS Engineer
-</p>
-<!-- For-the-badge style (big & bold) -->
-
-<p align="center">
   <a href="https://github.com/r8bert">
     <img src="https://img.shields.io/github/stars/r8bert?style=flat-square&logo=github&logoColor=white&labelColor=18181b&color=18181b" alt="GitHub stars">
   </a>
