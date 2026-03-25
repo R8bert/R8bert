@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=333333" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/🦀_Rust-Beginner-%23CE412B.svg?style=flat-square" alt="Rust">
 </p>
 
 <p align="center">
