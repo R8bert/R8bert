@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/github/stars/r8bert?style=flat-square&label=Stars&logo=github&color=black" alt="GitHub stars">
   <img src="https://img.shields.io/badge/OS-GNU%2FLinux-black?style=flat-square&logo=linux&logoColor=white" alt="OS: Linux">
   <img src="https://img.shields.io/badge/Distro-openSUSE-73BA48?style=flat-square&logo=opensuse&logoColor=white" alt="Distro: openSUSE">
-  <img src="https://img.shields.io/badge/Distro-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Distro: Arch Linux">
+  <!-- <img src="https://img.shields.io/badge/Distro-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Distro: Arch Linux"> -->
   <img src="https://img.shields.io/badge/DE-GNOME-3584E4?style=flat-square&logo=gnome&logoColor=white" alt="DE: GNOME">
 </p>
 
