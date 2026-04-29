@@ -1,18 +1,19 @@
 <p align="center">
-  <img src="https://img.shields.io/github/stars/r8bert?style=flat-square&label=Stars&logo=github&color=black" alt="GitHub stars">
-  <img src="https://img.shields.io/badge/OS-GNU%2FLinux-black?style=flat-square&logo=linux&logoColor=white" alt="OS: Linux">
-  <img src="https://img.shields.io/badge/Distro-openSUSE-73BA48?style=flat-square&logo=opensuse&logoColor=white" alt="Distro: openSUSE">
+  <img src="https://img.shields.io/github/stars/r8bert?style=flat-round&label=Stars&logo=github&color=black" alt="GitHub stars">
+  <img src="https://img.shields.io/badge/OS-GNU%2FLinux-black?style=flat-round&logo=linux&logoColor=white" alt="OS: Linux">
+  <img src="https://img.shields.io/badge/Distro-CachyOS-0B827C?style=flat-round&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkNhY2h5T1M8L3RpdGxlPjxwYXRoIGQ9Ik01LjMwMSAyLjY0NiAwIDExLjc3MWw1LjU0MSA5LjU4M2gxMS40ODZsMi45MDQtNS4wMTdIOC4xMDJsLTIuNTYtNC40MjlMOC4wNjcgNy41NGg2LjA2M2wyLjgzLTQuODkzWk0yMC4wNTggNC4xMmEuNzQ4Ljc0OCAwIDAgMCAwIDEuNDk2Ljc0OC43NDggMCAwIDAgMC0xLjQ5Nm0tMS45ODMgNC4zMDNhMS40NSAxLjQ1IDAgMCAwIDAgMi45IDEuNDUgMS40NSAwIDAgMCAwLTIuOW00LjAyIDMuOThhMS45MDQgMS45MDQgMCAwIDAgMCAzLjgwOSAxLjkwNCAxLjkwNCAwIDAgMCAwLTMuODEiLz48L3N2Zz4=&logoColor=white" alt="Distro: CachyOS">
+  <!-- <img src="https://img.shields.io/badge/Distro-openSUSE-73BA48?style=flat-square&logo=opensuse&logoColor=white" alt="Distro: openSUSE"> -->
   <!-- <img src="https://img.shields.io/badge/Distro-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Distro: Arch Linux"> -->
-  <img src="https://img.shields.io/badge/DE-GNOME-3584E4?style=flat-square&logo=gnome&logoColor=white" alt="DE: GNOME">
+  <img src="https://img.shields.io/badge/DE-GNOME-3584E4?style=flat-round&logo=gnome&logoColor=white" alt="DE: GNOME">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=333333" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/🦀_Rust-Beginner-%23CE412B.svg?style=flat-square" alt="Rust">
+  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat-round&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-round&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-round&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-round&logo=openjdk&logoColor=white&labelColor=333333" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-round&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/🦀_Rust-Beginner-%23CE412B.svg?style=flat-round" alt="Rust">
 </p>
 
 <p align="center">
