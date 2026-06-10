@@ -4,7 +4,8 @@
   <img src="https://img.shields.io/badge/Distro-CachyOS-0B827C?style=flat-round&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkNhY2h5T1M8L3RpdGxlPjxwYXRoIGQ9Ik01LjMwMSAyLjY0NiAwIDExLjc3MWw1LjU0MSA5LjU4M2gxMS40ODZsMi45MDQtNS4wMTdIOC4xMDJsLTIuNTYtNC40MjlMOC4wNjcgNy41NGg2LjA2M2wyLjgzLTQuODkzWk0yMC4wNTggNC4xMmEuNzQ4Ljc0OCAwIDAgMCAwIDEuNDk2Ljc0OC43NDggMCAwIDAgMC0xLjQ5Nm0tMS45ODMgNC4zMDNhMS40NSAxLjQ1IDAgMCAwIDAgMi45IDEuNDUgMS40NSAwIDAgMCAwLTIuOW00LjAyIDMuOThhMS45MDQgMS45MDQgMCAwIDAgMCAzLjgwOSAxLjkwNCAxLjkwNCAwIDAgMCAwLTMuODEiLz48L3N2Zz4=&logoColor=white" alt="Distro: CachyOS">
   <!-- <img src="https://img.shields.io/badge/Distro-openSUSE-73BA48?style=flat-square&logo=opensuse&logoColor=white" alt="Distro: openSUSE"> -->
   <!-- <img src="https://img.shields.io/badge/Distro-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Distro: Arch Linux"> -->
-  <img src="https://img.shields.io/badge/DE-GNOME-3584E4?style=flat-round&logo=gnome&logoColor=white" alt="DE: GNOME">
+  <!-- <img src="https://img.shields.io/badge/DE-GNOME-3584E4?style=flat-round&logo=gnome&logoColor=white" alt="DE: GNOME"> -->
+  <img src="https://img.shields.io/badge/DE-KDE-1D99F3?style=flat-round&logo=kde&logoColor=white" alt="DE: KDE">
 </p>
 
 <p align="center">
